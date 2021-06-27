@@ -1,9 +1,9 @@
 # IMASRemarkJS
 
-A theme for Remark JS, with IMAS branding
+A theme for [Remark JS](https://remarkjs.com), with IMAS branding
 
 
-## 
+
 
 
 
