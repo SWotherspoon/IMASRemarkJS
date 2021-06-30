@@ -15,10 +15,6 @@ body {
 }
 
 /* Links */
-a, a > code {
-  color: var(--imas-link);
-  text-decoration: none;
-}
 
 /* Heading formats */
 h1 {
@@ -69,8 +65,6 @@ h2, h3, h4 {
 .left-column h2:last-of-type, .left-column h3:last-child {
   color: var(--imas-fore);
 }
-
-
 
 /* The title slide has h1 and h2 headings for title and subtitle, and
        h3 headings for authors and optioanlly a date, and a
@@ -207,13 +201,16 @@ hr {
   opacity: 1;
 }
 
-
 .remark-inline-code {
   background: var(--imas-grey);
   border-radius: 3px;
   padding: 4px;
 }
 
+
+.red {
+  color: #fa0000;
+}
 
 /* Font sizing for code and slide text */
 
