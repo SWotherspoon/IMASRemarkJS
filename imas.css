@@ -58,6 +58,23 @@ h2, h3, h4 {
   font-size: 30px;
 }
 
+.left-column h2, .right-column h2 {
+  font-size: 30px;
+}
+
+.left-column h3, .right-column h3 {
+  font-size: 25px;
+}
+
+.left-column h4, .right-column h4 {
+  font-size: 20px;
+}
+
+.right-column {
+  font-size: 90%;
+}
+
+
 .left-column h2, .left-column h3, .left-column h4 {
   color: #999;
 }
